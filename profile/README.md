@@ -16,16 +16,6 @@ Die **muva kempten GmbH** ist ein akkreditiertes Labor- und Dienstleistungszentr
 
 ---
 
-### 🎓 Unsere Akademie
-
-Unsere **muva-Akademie** bietet praxisorientierte Seminare und Workshops – sowohl online als auch vor Ort. Aktuelle Themen:([it-michel.de][6])
-
-* **Sensorik Startpaket**: Effektive Schulungskonzepte für internes Paneltraining
-* **Trinkwasserhygiene im Lebensmittelbetrieb**: Strategien für eine sichere Wasserversorgung
-* **Messunsicherheit in der Mikrobiologie**: DIN EN ISO 19036:2020([muva.de][3])
-
----
-
 ### 📍 Kontakt & Anfahrt
 
 **muva kempten GmbH**
@@ -50,7 +40,7 @@ Mit über 130 Jahren Erfahrung ist es unsere Mission, die Qualität von Milch un
 
 ### 🤝 Mit uns arbeiten
 
-Ob als Kunde, Partner, Student oder neuer Kollege – bei uns bist du herzlich willkommen. Wir freuen uns auf den Austausch mit dir!
+Ob als Kunde, Partner, Student oder neuer Kollege – bei uns bist du herzlich willkommen.
 
 ---
 
