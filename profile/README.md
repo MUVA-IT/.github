@@ -75,12 +75,3 @@ Ob als Kunde, Partner, Student oder neuer Kollege – bei uns bist du herzlich w
 ---
 
 *Hinweis: Für weitere Informationen besuche bitte unsere [Website](https://www.muva.de).*
-
-[1]: https://www.muva.de/ueber-uns?utm_source=chatgpt.com "Über uns - der muva kempten GmbH"
-[2]: https://www.muva.de/ueber-uns/historie?utm_source=chatgpt.com "Historie - der muva kempten GmbH"
-[3]: https://www.muva.de/?utm_source=chatgpt.com "Startseite der muva kempten GmbH"
-[4]: https://www.muva.de/ueber-uns/ansprechpartner?utm_source=chatgpt.com "Ansprechpartner - der muva kempten GmbH"
-[5]: https://www.muva.de/probenannahme?utm_source=chatgpt.com "Probenannahme"
-[6]: https://www.it-michel.de/referenzen/artikel/muva-kempten-gmbh?utm_source=chatgpt.com "Referenz Neue Website für die muva kempten GmbH"
-[7]: https://www.muva.de/en/about-us/contact?utm_source=chatgpt.com "Contact - der muva kempten GmbH"
-[8]: https://www.muva.de/ueber-uns/oeffnungszeiten?utm_source=chatgpt.com "Öffnungszeiten - der muva kempten GmbH"
