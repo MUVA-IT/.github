@@ -36,7 +36,7 @@ Unsere Öffnungszeiten:
 
 ### 🌱 Unsere Vision
 
-Mit über 130 Jahren Erfahrung ist es unsere Mission, die Qualität von Milch und Milchprodukten zu fördern und zur Lebensmittelsicherheit beizutragen. Dabei setzen wir auf Innovation, Nachhaltigkeit und interdisziplinäre Zusammenarbeit. ([muva.de][2])
+Mit über 130 Jahren Erfahrung ist es unsere Mission, die Qualität von Milch und Milchprodukten zu fördern und zur Lebensmittelsicherheit beizutragen. Dabei setzen wir auf Innovation, Nachhaltigkeit und interdisziplinäre Zusammenarbeit.
 
 ---
 
