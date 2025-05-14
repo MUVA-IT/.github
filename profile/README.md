@@ -8,7 +8,7 @@ Die **muva kempten GmbH** ist ein akkreditiertes Labor- und Dienstleistungszentr
 
 ### 🚀 Deine Karriere bei muva
 
-Egal, ob du Schüler*in, Student*in, Berufseinsteiger*in oder bereits erfahren bist – bei uns findest du spannende Einstiegsmöglichkeiten. Wir bieten:
+Egal, ob du Schüler*in, Student*in, Berufseinsteiger\*in oder bereits erfahren bist – bei uns findest du spannende Einstiegsmöglichkeiten. Wir bieten:
 
 * Praktika und Ausbildungsplätze
 * Studien- und Abschlussarbeiten
