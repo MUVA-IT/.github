@@ -20,6 +20,7 @@ Schau dir unsere aktuellen Stellenangebote an: [Karriere bei muva](https://www.m
 ### 🌍 Standort & Kontaktd
 
 📍 **muva kempten GmbH**
+
 Ignaz-Kiechle-Straße 20–22
 87437 Kempten (Allgäu), Deutschland
 📞 +49 831 5290-0
