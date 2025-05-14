@@ -2,7 +2,7 @@
 
 ### 🧪 Über uns
 
-Die **muva kempten GmbH** ist ein akkreditiertes Labor- und Dienstleistungszentrum mit über 130 Jahren Erfahrung in der Qualitätssicherung und Produktentwicklung – besonders in der Milch- und Lebensmittelbranche. Als Herzstück des **Milchwirtschaftlichen Zentrums Bayern** bieten wir umfassende Analytik, Beratung und Schulungen an. ([muva.de][1], [muva.de][2])
+Die **muva kempten GmbH** ist ein akkreditiertes Labor- und Dienstleistungszentrum mit über 130 Jahren Erfahrung in der Qualitätssicherung und Produktentwicklung – besonders in der Milch- und Lebensmittelbranche. Als Herzstück des **Milchwirtschaftlichen Zentrums Bayern** bieten wir umfassende Analytik, Beratung und Schulungen an. ([muva.de][1])
 
 ---
 
