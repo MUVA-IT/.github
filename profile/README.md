@@ -27,7 +27,7 @@ Ignaz-Kiechle-Straße 20–22
 📧 [info@muva.de](mailto:info@muva.de)
 🌐 [muva.de](https://www.muva.de)
 
-Unsere Öffnungszeiten:([muva.de][7])
+Unsere Öffnungszeiten:
 
 * **Telefonzentrale**: Mo–Do 7:30–18:00 Uhr, Fr 7:30–17:00 Uhr
 * **Probenannahme**: Mo–Fr 7:00–17:00 Uhr, Sa nach Vereinbarung([muva.de][8])
