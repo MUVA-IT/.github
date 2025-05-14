@@ -60,8 +60,6 @@ Ob als Kunde, Partner, Student oder neuer Kollege – bei uns bist du herzlich w
 
 *Hinweis: Für weitere Informationen besuche bitte unsere [Website](https://www.muva.de).*
 
----
-
 [1]: https://www.muva.de/ueber-uns?utm_source=chatgpt.com "Über uns - der muva kempten GmbH"
 [2]: https://www.muva.de/ueber-uns/historie?utm_source=chatgpt.com "Historie - der muva kempten GmbH"
 [3]: https://www.muva.de/?utm_source=chatgpt.com "Startseite der muva kempten GmbH"
