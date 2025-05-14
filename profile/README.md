@@ -1,9 +1,3 @@
-[![Referenz Neue Website für die muva kempten GmbH](https://tse3.mm.bing.net/th?id=OIP.LPi0e4Bxl6hrjFUh6zBJyAHaDx\&pid=Api)](https://www.it-michel.de/referenzen/artikel/muva-kempten-gmbh)
-
-Hier ist ein professionell gestalteter und dennoch einladender GitHub-Markdown für die muva kempten GmbH – ideal für ein jüngeres, technikaffines Publikum:
-
----
-
 ## 👋 Willkommen bei muva kempten GmbH
 
 ### 🧪 Über uns
