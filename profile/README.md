@@ -30,7 +30,7 @@ Schau dir unsere aktuellen Stellenangebote an: [Karriere bei muva](https://www.m
 Unsere Öffnungszeiten:
 
 * **Telefonzentrale**: Mo–Do 7:30–18:00 Uhr, Fr 7:30–17:00 Uhr
-* **Probenannahme**: Mo–Fr 7:00–17:00 Uhr, Sa nach Vereinbarung([muva.de][8])
+* **Probenannahme**: Mo–Fr 7:00–17:00 Uhr
 
 ---
 
