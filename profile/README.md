@@ -28,7 +28,7 @@ Die **IT-Sicherheit** und der **Datenschutz** unserer Kundendaten haben bei uns 
 
 ---
 
-### 🌍 Standort & Kontaktd
+### 🌍 Standort & Kontakt
 
 📍 **muva kempten GmbH**
 
