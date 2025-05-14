@@ -28,12 +28,6 @@ Die **IT-Sicherheit** und der **Datenschutz** unserer Kundendaten haben bei uns 
 
 ---
 
-**🚀 Deine Möglichkeiten:**
-
-Als Anwendungsentwickler\*in bei uns hast du die Chance, an spannenden Projekten mitzuwirken, die direkt Einfluss auf die Qualitätssicherung in der Lebensmittelbranche haben.
-
----
-
 ### 🚀 Deine Karriere bei muva
 
 Egal, ob du Schüler\*in, Student\*in, Berufseinsteiger\*in oder bereits erfahren bist – bei uns findest du spannende Einstiegsmöglichkeiten. Wir bieten:
