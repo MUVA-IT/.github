@@ -6,19 +6,21 @@ Die **muva kempten GmbH** ist ein akkreditiertes Labor- und Dienstleistungszentr
 
 ---
 
-### 🔬 Unsere Leistungen
+### 🚀 Deine Karriere bei muva
 
-* **Lebensmittelanalytik**: Mikrobiologie, Chemie, Rückstände, Sensorik
-* **Wasseranalytik**: Trinkwasser, Legionellen, Verdunstungskühlanlagen
-* **Verpackungsanalytik**: Mikrobiologische, chemische und sensorische Tests
-* **Beratung & Schulung**: IFS Food 8, Exportzertifikate, HACCP, Inhouse-Seminare
-* **Eignungsprüfungen & Referenzmaterialien**: Für Laborqualitätssicherung([muva.de][3], [muva.de][4], [muva.de][5])
+Egal, ob du Schüler\:in, Student\:in, Berufseinsteiger\:in oder bereits erfahren bist – bei uns findest du spannende Einstiegsmöglichkeiten. Wir bieten:
+
+* Praktika und Ausbildungsplätze
+* Studien- und Abschlussarbeiten
+* Direkteinstieg für Berufserfahrene
+
+Schau dir unsere aktuellen Stellenangebote an: [Karriere bei muva](https://www.muva.de/karriere)
 
 ---
 
-### 📍 Kontakt & Anfahrt
+### 🌍 Standort & Kontaktd
 
-**muva kempten GmbH**
+📍 **muva kempten GmbH**
 Ignaz-Kiechle-Straße 20–22
 87437 Kempten (Allgäu), Deutschland
 📞 +49 831 5290-0
@@ -41,6 +43,18 @@ Mit über 130 Jahren Erfahrung ist es unsere Mission, die Qualität von Milch un
 ### 🤝 Mit uns arbeiten
 
 Ob als Kunde, Partner, Student oder neuer Kollege – bei uns bist du herzlich willkommen.
+
+* [Kontaktformular](https://www.muva.de/kontakt)
+* Direkt per E-Mail an [info@muva.de](mailto:info@muva.de)
+
+---
+
+### 🔗 Weitere Links
+
+* [Über uns](https://www.muva.de/ueber-uns)
+* [Unsere Leistungen](https://www.muva.de/leistungen)
+* [muva-Akademie](https://www.muva.de/akademie)
+* [Karriere](https://www.muva.de/karriere)
 
 ---
 
