@@ -28,17 +28,6 @@ Die **IT-Sicherheit** und der **Datenschutz** unserer Kundendaten haben bei uns 
 
 ---
 
-### 🚀 Deine Karriere bei muva
-
-Egal, ob du Schüler\*in, Student\*in, Berufseinsteiger\*in oder bereits erfahren bist – bei uns findest du spannende Einstiegsmöglichkeiten. Wir bieten:
-
-* Praktika und Ausbildungsplätze
-* Direkteinstieg für Berufserfahrene
-
-Schau dir unsere aktuellen Stellenangebote an: [Karriere bei muva](https://www.muva.de/karriere)
-
----
-
 ### 🌍 Standort & Kontaktd
 
 📍 **muva kempten GmbH**
