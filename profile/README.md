@@ -6,28 +6,6 @@ Die **muva kempten GmbH** ist ein akkreditiertes Labor- und Dienstleistungszentr
 
 ---
 
-### 💻 Unsere IT & Entwicklung
-
-Bei der muva kempten GmbH setzen wir auf moderne Technologien, um unsere internen Prozesse effizient zu gestalten. Unsere IT-Abteilung spielt eine zentrale Rolle in der Digitalisierung und Automatisierung unserer Labor- und Verwaltungsprozesse.
-
-#### 🔧 **.NET-Entwicklung**
-
-Wir entwickeln maßgeschneiderte Anwendungen und Schnittstellen auf der Basis von **.NET**, um unsere internen Abläufe zu optimieren und leistungsstarke Softwarelösungen zu liefern.
-
-#### 💾 **Datenbanken**
-
-Mit **relationalen Datenbanksystemen** speichern und analysieren wir unsere Labor- und Kundendaten effizient.
-
-#### ⚙️ **Automatisierung**
-
-Unsere Tools zur **Automatisierung** helfen dabei, wiederkehrende Aufgaben zu minimieren und Arbeitsabläufe zu optimieren. Du wirst die Möglichkeit haben, moderne Automatisierungstechnologien wie **CI/CD-Pipelines** zu nutzen.
-
-#### 🔒 **Sicherheit**
-
-Die **IT-Sicherheit** und der **Datenschutz** unserer Kundendaten haben bei uns höchste Priorität. Wir setzen auf fortschrittliche **Verschlüsselung** und **Sicherheitsprotokolle**, um eine sichere IT-Infrastruktur zu gewährleisten.
-
----
-
 ### 🌍 Standort & Kontakt
 
 📍 **muva kempten GmbH**
