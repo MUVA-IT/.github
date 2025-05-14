@@ -10,14 +10,27 @@ Die **muva kempten GmbH** ist ein akkreditiertes Labor- und Dienstleistungszentr
 
 Bei der muva kempten GmbH setzen wir auf moderne Technologien, um unsere internen Prozesse effizient zu gestalten. Unsere IT-Abteilung spielt eine zentrale Rolle in der Digitalisierung und Automatisierung unserer Labor- und Verwaltungsprozesse.
 
-**Technologien:**
+** 🛠️ Technologien:**
 
-* **.NET-Entwicklung**: Wir entwickeln maßgeschneiderte Anwendungen und Schnittstellen auf Basis des .NET-Frameworks, um unsere internen Abläufe zu optimieren.
-* **Datenbanken**: Einsatz von relationalen Datenbanksystemen zur strukturierten Speicherung und Analyse von Labor- und Kundendaten.
-* **Automatisierung**: Implementierung von Tools zur Automatisierung wiederkehrender Aufgaben.
-* **Sicherheit**: Hohe Priorität auf IT-Sicherheit und Datenschutz, insbesondere im Umgang mit sensiblen Kundendaten.
+#### 🔧 **.NET-Entwicklung**
 
-**Deine Möglichkeiten:**
+Wir entwickeln maßgeschneiderte Anwendungen und Schnittstellen auf der Basis von **.NET**, um unsere internen Abläufe zu optimieren und leistungsstarke Softwarelösungen zu liefern.
+
+#### 💾 **Datenbanken**
+
+Mit **relationalen Datenbanksystemen** speichern und analysieren wir unsere Labor- und Kundendaten effizient.
+
+#### ⚙️ **Automatisierung**
+
+Unsere Tools zur **Automatisierung** helfen dabei, wiederkehrende Aufgaben zu minimieren und Arbeitsabläufe zu optimieren. Du wirst die Möglichkeit haben, moderne Automatisierungstechnologien wie **CI/CD-Pipelines** zu nutzen.
+
+#### 🔒 **Sicherheit**
+
+Die **IT-Sicherheit** und der **Datenschutz** unserer Kundendaten haben bei uns höchste Priorität. Wir setzen auf fortschrittliche **Verschlüsselung** und **Sicherheitsprotokolle**, um eine sichere IT-Infrastruktur zu gewährleisten.
+
+---
+
+** 🚀 Deine Möglichkeiten:**
 
 Als Anwendungsentwickler\*in bei uns hast du die Chance, an spannenden Projekten mitzuwirken, die direkt Einfluss auf die Qualitätssicherung in der Lebensmittelbranche haben.
 
