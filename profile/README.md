@@ -28,7 +28,7 @@ Die **IT-Sicherheit** und der **Datenschutz** unserer Kundendaten haben bei uns 
 
 ---
 
-** 🚀 Deine Möglichkeiten:**
+**🚀 Deine Möglichkeiten:**
 
 Als Anwendungsentwickler\*in bei uns hast du die Chance, an spannenden Projekten mitzuwirken, die direkt Einfluss auf die Qualitätssicherung in der Lebensmittelbranche haben.
 
