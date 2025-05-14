@@ -11,7 +11,6 @@ Die **muva kempten GmbH** ist ein akkreditiertes Labor- und Dienstleistungszentr
 Egal, ob du Schüler\*in, Student\*in, Berufseinsteiger\*in oder bereits erfahren bist – bei uns findest du spannende Einstiegsmöglichkeiten. Wir bieten:
 
 * Praktika und Ausbildungsplätze
-* Studien- und Abschlussarbeiten
 * Direkteinstieg für Berufserfahrene
 
 Schau dir unsere aktuellen Stellenangebote an: [Karriere bei muva](https://www.muva.de/karriere)
