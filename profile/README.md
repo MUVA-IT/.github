@@ -1,12 +1,12 @@
-## 👋 Willkommen bei muva kempten GmbH
+## Willkommen bei muva kempten GmbH
 
-### 🧪 Über uns
+### Über uns
 
 Die **muva kempten GmbH** ist ein akkreditiertes Labor- und Dienstleistungszentrum mit über 130 Jahren Erfahrung in der Qualitätssicherung und Produktentwicklung – besonders in der Milch- und Lebensmittelbranche. Als Herzstück des **Milchwirtschaftlichen Zentrums Bayern** bieten wir umfassende Analytik, Beratung und Schulungen an. [Homepage](https://www.muva.de)
 
 ---
 
-### 🌍 Standort & Kontakt
+### Standort & Kontakt
 
 📍 **muva kempten GmbH**
 
@@ -18,7 +18,7 @@ Die **muva kempten GmbH** ist ein akkreditiertes Labor- und Dienstleistungszentr
 
 ---
 
-### 🤝 Mit uns arbeiten
+### Mit uns arbeiten
 
 Ob als Kunde, Partner, Student oder neuer Kollege – bei uns bist du herzlich willkommen.
 
